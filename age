@@ -1,0 +1,9 @@
+print('please enter your age: ')
+age=int(input ())
+
+if (age > 18):
+    print('this is an adult')
+if (age< 18):
+    print('this is a child')
+else:
+    print('chukua Id matanye')
